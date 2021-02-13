@@ -8,3 +8,4 @@ I'm in a fraternity; I put together our rush flyer that gets posted on our Insta
 ![Sigma Tau Gamma Rush Flyer](STRF.png | height=100)
 -->
 <img src="STRF.png" height="400" alt="Sigma Tau Gamma Rush Flyer">
+<img src="RecruitmentFlyer (1).png" height="400" alt="Sigma Tau Gamma Recruitment Scholarship">
