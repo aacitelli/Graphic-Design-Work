@@ -11,7 +11,7 @@ For a scholarship we handed out to students. Was hung up all the way around camp
 
 <img src="RecruitmentFlyer.png" height="300" alt="Sigma Tau Gamma Recruitment Scholarship">
 
-## Sigma Tau Gamma Recruitment Scholarship Flyer
+## Sigma Tau Gamma March Madness Flyer
 For a scholarship we handed out to students. Was hung up all the way around campus. This was my first full-scale attempt at going off of Sigma Tau Gamma's actual, official brand guidelines, and I think it paid off well. 
 
 <img src="MarchMadnessFlyer.png" height="300" alt="Sigma Tau Gamma Recruitment Scholarship">
